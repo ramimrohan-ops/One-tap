@@ -1,0 +1,7 @@
+{
+  "appId": "com.onetap.app",
+  "appName": "One Tap",
+  "webDir": "www",
+  "backgroundColor": "#09090b",
+  "android": { "allowMixedContent": false }
+}
